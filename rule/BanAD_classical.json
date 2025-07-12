@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "admarvel",
+        "admaster",
+        "adsage",
+        "adsensor",
+        "adsmogo",
+        "adsrvmedia",
+        "adsserving",
+        "adsystem",
+        "adwords",
+        "applovin",
+        "appsflyer",
+        "domob",
+        "duomeng",
+        "dwtrack",
+        "guanggao",
+        "omgmta",
+        "omgmtaw",
+        "omniture",
+        "openx",
+        "partnerad",
+        "pingfore",
+        "socdm",
+        "supersonicads",
+        "wlmonitor",
+        "zjtoolbar"
+      ]
+    }
+  ],
+  "version": 2
+}

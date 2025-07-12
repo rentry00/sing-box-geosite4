@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "googlevideo.com",
+        "pornhub.com",
+        "twitch.tv",
+        "twitchcdn.com",
+        "twitchcdn.net",
+        "xvideos.com",
+        "youtube.com",
+        "ytimg.com"
+      ]
+    }
+  ],
+  "version": 2
+}

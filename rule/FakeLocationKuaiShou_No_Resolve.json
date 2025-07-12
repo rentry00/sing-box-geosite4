@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "gifshow.com",
+        "hdns.gslb.ksyuncdn.com",
+        "inkuai.com",
+        "inkwai.com",
+        "ksapisrv.com",
+        "kskwai.com",
+        "kuaishou.cn",
+        "kuaishou.com",
+        "kuaishouzt.com",
+        "kwaizt.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "103.102.200.0/22",
+        "103.107.200.0/22",
+        "103.107.216.0/22",
+        "103.167.26.0/23"
+      ]
+    }
+  ],
+  "version": 2
+}

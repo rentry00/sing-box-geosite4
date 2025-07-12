@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "crxsoso.com",
+        "duolingo.cn",
+        "ebaolife.net",
+        "getui.com",
+        "igexin.com",
+        "mob.com",
+        "qq.com",
+        "sonatype.org",
+        "taobao.com",
+        "trello.com",
+        "umeng.com"
+      ]
+    }
+  ],
+  "version": 2
+}

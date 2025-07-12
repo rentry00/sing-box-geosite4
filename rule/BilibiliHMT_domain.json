@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "p-bstarstatic.akamaized.net",
+        "p.bstarstatic.com",
+        "upos-bstar-mirrorakam.akamaized.net",
+        "upos-bstar1-mirrorakam.akamaized.net",
+        "upos-hz-mirrorakam.akamaized.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "acgvideo.com",
+        "bilibili.com",
+        "bilibili.tv"
+      ]
+    }
+  ],
+  "version": 2
+}

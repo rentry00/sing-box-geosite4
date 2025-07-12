@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "share.dmhy.org",
+        "u2.dmhy.org",
+        "vod-progressive.akamaized.net"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "dmhy",
+        "intercomcdn",
+        "logitech",
+        "notion",
+        "segment",
+        "totheglory"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "akamaized.net",
+        "amazonaws.com",
+        "amplitude.com",
+        "dmhy.org",
+        "intercom.io",
+        "intercomcdn.com",
+        "loggly.com",
+        "logitech.com",
+        "logitechg.com",
+        "notion.so",
+        "segment.com",
+        "totheglory.im"
+      ]
+    }
+  ],
+  "version": 2
+}

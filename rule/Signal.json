@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "signal.org",
+        "whispersystems.org"
+      ]
+    }
+  ],
+  "version": 2
+}

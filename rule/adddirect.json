@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "injections.adguard.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "kaspersky-labs.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "hk.hsbc.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".hk.hsbc.com",
+        "bochk.com",
+        "cdn.zaticdn.com",
+        "citibank.com.hk",
+        "cmbwinglungbank.com",
+        "cncbinternational.com",
+        "dbs.com.hk",
+        "hangseng.com",
+        "hsbc.com.hk",
+        "ncb.com.hk",
+        "ocbcwhhk.com",
+        "sc.com.hk",
+        "za.group"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "stripe.com",
+        "stripe.network",
+        "stripecdn.com",
+        "wise.com"
+      ]
+    }
+  ],
+  "version": 2
+}

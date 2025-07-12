@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "transferwise"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "wise.com"
+      ]
+    }
+  ],
+  "version": 2
+}

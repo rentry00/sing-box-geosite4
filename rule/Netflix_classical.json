@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "apiproxy-device-prod-nlb-",
+        "dualstack.apiproxy-",
+        "dualstack.ichnaea-web-",
+        "netflixdnstest"
+      ]
+    }
+  ],
+  "version": 2
+}

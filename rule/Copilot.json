@@ -1,0 +1,60 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "api.msn.com",
+        "api.statsig.com",
+        "assets.msn.com",
+        "browser-intake-datadoghq.com",
+        "copilot.microsoft.com",
+        "gateway.bingviz.microsoft.net",
+        "gateway.bingviz.microsoftapp.net",
+        "in.appcenter.ms",
+        "odc.officeapps.live.com",
+        "self.events.data.microsoft.com",
+        "services.bingapis.com",
+        "static.cloudflareinsights.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "copilot"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "algolia.net",
+        "api.microsoftapp.net",
+        "bing.com",
+        "bing.com.cn",
+        "bing.net",
+        "bingads.com",
+        "bingagencyawards.com",
+        "bingapistatistics.com",
+        "bingsandbox.com",
+        "bingvisualsearch.com",
+        "bingworld.com",
+        "cdn.cloudflare.net",
+        "client-api.arkoselabs.com",
+        "edgeservices.bing.com",
+        "events.statsigapi.net",
+        "featuregates.org",
+        "host.livekit.cloud",
+        "identrust.com",
+        "intercom.io",
+        "intercomcdn.com",
+        "launchdarkly.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "observeit.net",
+        "poe.com",
+        "segment.io",
+        "sentry.io",
+        "stripe.com",
+        "turn.livekit.cloud",
+        "vscode.dev"
+      ]
+    }
+  ],
+  "version": 2
+}

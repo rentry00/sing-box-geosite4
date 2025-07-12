@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "app-analytics-services",
+        "httpdns",
+        "httpsdns"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ixigua.com"
+      ]
+    }
+  ],
+  "version": 2
+}

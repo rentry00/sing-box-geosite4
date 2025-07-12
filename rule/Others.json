@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "deezer.com",
+        "dzcdn.net",
+        "kiite.jp",
+        "mora.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

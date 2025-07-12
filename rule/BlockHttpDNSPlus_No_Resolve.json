@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "api-dns",
+        "api.dns",
+        "apidns",
+        "cdn-dns",
+        "cdn.dns",
+        "cdndns",
+        "dns-api",
+        "dns-cdn",
+        "dns.api",
+        "dns.cdn",
+        "dnsapi",
+        "dnscdn",
+        "http-dns",
+        "http.dns",
+        "httpdns",
+        "https-dns",
+        "https.dns",
+        "httpsdns"
+      ]
+    }
+  ],
+  "version": 2
+}

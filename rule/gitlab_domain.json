@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "gitlab-static.net",
+        "gitlab.com",
+        "gitlab.io",
+        "gitlab.net"
+      ]
+    }
+  ],
+  "version": 2
+}

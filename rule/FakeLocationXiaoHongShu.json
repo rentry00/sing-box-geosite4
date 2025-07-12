@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "app-analytics-services",
+        "httpdns",
+        "httpsdns"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "edith.xiaohongshu.com",
+        "tracker.xiaohongshu.com",
+        "www.xiaohongshu.com"
+      ]
+    }
+  ],
+  "version": 2
+}

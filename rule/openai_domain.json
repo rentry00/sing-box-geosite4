@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ai.com",
+        "albus.org",
+        "challenges.cloudflare.com",
+        "chatgpt.com",
+        "coze.com",
+        "devv.ai",
+        "dify.ai",
+        "launchdarkly.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openai.com",
+        "openrouter.ai",
+        "phind.com",
+        "segment.com",
+        "segment.io"
+      ]
+    }
+  ],
+  "version": 2
+}

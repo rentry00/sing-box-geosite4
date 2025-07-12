@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "firefox",
+        "getpocket",
+        "immersivetranslate",
+        "mozilla"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "a.omappapi.com",
+        "accounts.firefox.com",
+        "amazonaws.com",
+        "api.omappapi.com",
+        "assets.getpocket.com",
+        "cdn.cookielaw.org",
+        "cdn.mozilla.net",
+        "config.immersivetranslate.com",
+        "cookielaw.org",
+        "firefox.com",
+        "getpocket.com",
+        "immersivetranslate.com",
+        "incoming.telemetry.mozilla.org",
+        "mozilla.com",
+        "mozilla.net",
+        "mozilla.org",
+        "omappapi.com",
+        "profile.accounts.firefox.com",
+        "push.services.mozilla.com",
+        "s3.amazonaws.com",
+        "sync.services.mozilla.com"
+      ]
+    }
+  ],
+  "version": 2
+}

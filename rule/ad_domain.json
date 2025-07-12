@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "adserver.unityads.unity3d.com",
+        "unityads.unity.cn",
+        "unityads.unitychina.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

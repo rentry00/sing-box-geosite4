@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "app-analytics-services",
+        "httpdns",
+        "httpsdns"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "zhihu.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "103.41.167.0/24",
+        "120.92.107.7/32",
+        "43.152.129.54/32",
+        "43.152.134.28/32",
+        "43.152.182.14/32"
+      ]
+    }
+  ],
+  "version": 2
+}

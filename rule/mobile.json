@@ -1,0 +1,69 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "api-logncrash.cloud.toast.com",
+        "api-push.cloud.toast.com",
+        "cps.nhn-playart.com",
+        "dmm.magi-reco.com",
+        "gslb-gamebase.nhncloudservice.com",
+        "prd-static.nikoichi.quatroa.app",
+        "prd-storage-app-umamusume.akamaized.net",
+        "prd-storage-game-umamusume.akamaized.net",
+        "prd-storage-umamusume.akamaized.net",
+        "prd.nikoichi-api.quatroa.app",
+        "prd.nikoichi-cms.quatroa.app",
+        "x-cdn-dolphin.marv-games.jp"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "404gr.com",
+        "agrmt.channel.or.jp",
+        "ange-relink.net",
+        "appsflyer.com",
+        "bluearchive.jp",
+        "bluearchiveyostar.com",
+        "bluereflection-sun.gamecity.ne.jp",
+        "craftegg.jp",
+        "d2ilil7yh5oi1v.cloudfront.net",
+        "d4dj-donuts.net",
+        "d4dj-groovy-mix.com",
+        "dmmgames.com",
+        "enza.fun",
+        "fate-go.jp",
+        "game-gakuen-idolmaster.jp",
+        "game-idolypride.jp",
+        "games.dmm.co.jp",
+        "games.dmm.com",
+        "hazereverb.jp",
+        "heytapmobi.com",
+        "jp.ffviiec.com",
+        "legal.bandainamcoent.co.jp",
+        "maj-soul.com",
+        "maj-soul.net",
+        "mist-train-girls.com",
+        "napp.catchingnow.com",
+        "octo-cloud.com",
+        "resleriana.jp",
+        "rst-game.com",
+        "sekai.colorfulpalette.org",
+        "smbeat.com",
+        "smbeat.jp",
+        "t7s.jp",
+        "taptap.io",
+        "umamusume.jp",
+        "urbanairship.com",
+        "wfs.games",
+        "yo-star.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "125.6.189.215/32",
+        "203.104.209.7/32"
+      ]
+    }
+  ],
+  "version": 2
+}

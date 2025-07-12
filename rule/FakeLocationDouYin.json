@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "sso.douyin.com",
+        "www.douyin.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "-core-c-hl.amemv.com",
+        "-core-c-lf.amemv.com",
+        "-core-lf.amemv.com",
+        "-normal-c-hl.amemv.com",
+        "-normal-c-lf.amemv.com",
+        "-normal-c.amemv.com",
+        "-normal-hl.amemv.com",
+        "-normal-lf.amemv.com",
+        "-normal-m-lf.amemv.com",
+        "app-analytics-services",
+        "core-c-lq.amemv.com",
+        "core-lq.amemv.com",
+        "httpdns",
+        "httpsdns",
+        "normal-c-lq.amemv.com",
+        "normal-lq.amemv.com",
+        "search-lq.amemv.com",
+        "search-quic-lq.amemv.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "snssdk.com"
+      ]
+    }
+  ],
+  "version": 2
+}

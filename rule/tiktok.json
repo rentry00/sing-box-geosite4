@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "akamaized.net",
+        "byteoversea.com",
+        "ibytedtos.com",
+        "ibyteimg.com",
+        "ipstatp.com",
+        "muscdn.com",
+        "musical.ly",
+        "p16-tiktokcdn-com",
+        "sgpstatp.com",
+        "snssdk.com",
+        "tik-tokapi.com",
+        "tiktok.com",
+        "tiktokcdn.com",
+        "tiktokv.com"
+      ]
+    }
+  ],
+  "version": 2
+}

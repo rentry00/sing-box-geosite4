@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "hamreus.com",
+        "manhuagui.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "ibkr",
+        "interactivebrokers"
+      ]
+    }
+  ],
+  "version": 2
+}

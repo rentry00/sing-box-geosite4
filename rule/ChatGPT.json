@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ai.com",
+        "arkoselabs.com",
+        "auth0.com",
+        "challenges.cloudflare.com",
+        "chatgpt.com",
+        "oaistatic.com",
+        "openai.com",
+        "openaiapi-site.azureedge.net",
+        "stripe.com"
+      ]
+    }
+  ],
+  "version": 2
+}

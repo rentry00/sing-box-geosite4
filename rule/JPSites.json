@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "game-a.granbluefantasy.jp",
+        "game-a1.granbluefantasy.jp",
+        "game-a3.granbluefantasy.jp",
+        "game.granbluefantasy.jp",
+        "prd-game-a1-granbluefantasy.akamaized.net"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "akamaized",
+        "granbluefantasy"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "DMM.co.jp",
+        "DMM.com",
+        "game-a.granbluefantasy.jp",
+        "game-a1.granbluefantasy.jp",
+        "game-a3.granbluefantasy.jp",
+        "granbluefantasy.akamaized.net",
+        "granbluefantasy.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "pornhub"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "phncdn.com",
+        "phprcdn.com",
+        "pornhub-deutsch.net",
+        "pornhubapparel.com",
+        "pornhubpremium.com",
+        "pronstore.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "2mdn.net",
+        "beacons.gcp.gvt2.com",
+        "doubleclick.net",
+        "googlesyndication.com",
+        "redirector.gvt1.com",
+        "secure.adnxs.com"
+      ]
+    }
+  ],
+  "version": 2
+}

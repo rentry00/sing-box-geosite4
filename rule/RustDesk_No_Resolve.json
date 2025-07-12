@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "rs-cn.rustdesk.com",
+        "rs-ny.rustdesk.com",
+        "rs-sg.rustdesk.com"
+      ]
+    }
+  ],
+  "version": 2
+}

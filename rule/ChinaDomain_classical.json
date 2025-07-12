@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "360buy",
+        "alicdn",
+        "alimama",
+        "alipay",
+        "appzapp",
+        "baidupcs",
+        "ccgslb",
+        "chinacache",
+        "duobao",
+        "jdpay",
+        "moke",
+        "qhimg",
+        "vpimg",
+        "xiami",
+        "xiaomi"
+      ]
+    }
+  ],
+  "version": 2
+}

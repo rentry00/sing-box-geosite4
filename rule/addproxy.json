@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "acgdmzy.com",
+        "asmr-100.com",
+        "asmr-200.com",
+        "asmr-300.com",
+        "asmr.one",
+        "donmai.us",
+        "esjzone.cc",
+        "esjzone.me",
+        "ghost.io",
+        "kiko-play-niptan.one",
+        "lightnovel.app",
+        "lightnovel.life",
+        "lightnovel.love",
+        "openai.com"
+      ]
+    }
+  ],
+  "version": 2
+}

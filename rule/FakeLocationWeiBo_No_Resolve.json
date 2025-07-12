@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "app-analytics-services",
+        "httpdns",
+        "httpsdns",
+        "weibo"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "sinaimg.cn",
+        "wbimg.cn",
+        "wbimg.com"
+      ]
+    }
+  ],
+  "version": 2
+}

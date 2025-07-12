@@ -1,0 +1,30 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "api-sams.walmartmobile.cn",
+        "auth.orangebank.com.cn",
+        "cdn.sdb.com.cn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "afdian.net",
+        "afdiancdn.com",
+        "agoda.cn",
+        "autodiscover-s.outlook.com",
+        "cloudflarestorage.com",
+        "dataservice.protection.outlook.com",
+        "geetest.com",
+        "goodwe.com",
+        "outlook.office.com",
+        "outlook.office365.com",
+        "resi.io",
+        "resi.media",
+        "steamcontent.com",
+        "walmartmobile.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

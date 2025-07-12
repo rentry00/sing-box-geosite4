@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "beatsaver.com",
+        "gamecom.jp",
+        "maj-soul.com",
+        "ppy.sh",
+        "steam.tv",
+        "vive.com",
+        "viveport.com"
+      ]
+    }
+  ],
+  "version": 2
+}
