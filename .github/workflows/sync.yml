@@ -5,7 +5,7 @@ on:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron: '240'
+    - cron: '20'
 
 jobs:
   build:
