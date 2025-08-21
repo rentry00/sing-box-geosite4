@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "0--foodwarez.da.ru",
         "0-02.net",
         "0-2345.com",
