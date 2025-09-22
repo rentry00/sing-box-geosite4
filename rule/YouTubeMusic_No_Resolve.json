@@ -1,4 +1,10 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain": [
+        "music.youtube.com"
+      ]
+    }
+  ],
   "version": 2
 }

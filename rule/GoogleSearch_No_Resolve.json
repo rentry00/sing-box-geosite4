@@ -1,4 +1,10 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_keyword": [
+        "www.google."
+      ]
+    }
+  ],
   "version": 2
 }
