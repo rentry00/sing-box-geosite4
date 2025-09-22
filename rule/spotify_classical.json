@@ -1,12 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_keyword": [
-        "-spotify-",
-        "buzzsprout",
-        "spotify.com"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }

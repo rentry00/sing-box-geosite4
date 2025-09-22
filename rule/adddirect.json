@@ -1,15 +1,4 @@
 {
-  "rules": [
-    {
-      "domain": [
-        "injections.adguard.org"
-      ]
-    },
-    {
-      "domain_suffix": [
-        "kaspersky-labs.com"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
