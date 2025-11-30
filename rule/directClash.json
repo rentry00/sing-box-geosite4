@@ -2,8 +2,10 @@
   "rules": [
     {
       "domain": [
+        "aadcdn.msftauth.net",
         "api-sams.walmartmobile.cn",
         "auth.orangebank.com.cn",
+        "browser.events.data.microsoft.com",
         "cdn.sdb.com.cn"
       ]
     },
@@ -17,6 +19,8 @@
         "dataservice.protection.outlook.com",
         "geetest.com",
         "goodwe.com",
+        "login.live.com",
+        "login.microsoftonline.com",
         "outlook.office.com",
         "outlook.office365.com",
         "resi.io",
