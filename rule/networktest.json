@@ -1,10 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_keyword": [
-        "speedtest"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
