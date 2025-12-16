@@ -2,6 +2,9 @@
   "rules": [
     {
       "domain_keyword": [
+        "app-analytics-services",
+        "httpdns",
+        "httpsdns",
         "weibo"
       ]
     },
