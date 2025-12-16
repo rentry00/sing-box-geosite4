@@ -1,10 +1,16 @@
 {
   "rules": [
     {
+      "domain_keyword": [
+        "app-analytics-services",
+        "httpdns",
+        "httpsdns",
+        "xiaohongshu"
+      ]
+    },
+    {
       "domain_suffix": [
-        "edith.xiaohongshu.com",
-        "tracker.xiaohongshu.com",
-        "www.xiaohongshu.com"
+        "tracker.xiaohongshu.com"
       ]
     }
   ],
