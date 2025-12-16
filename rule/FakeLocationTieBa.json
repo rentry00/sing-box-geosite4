@@ -6,11 +6,9 @@
       ]
     },
     {
-      "domain_keyword": [
-        "app-analytics-services",
-        "httpdns",
-        "httpsdns",
-        "httpsdns.baidu"
+      "domain_suffix": [
+        "httpdns.baidu.com",
+        "httpdns.baidubce.com"
       ]
     },
     {
