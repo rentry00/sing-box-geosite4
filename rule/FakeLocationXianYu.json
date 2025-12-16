@@ -7,15 +7,14 @@
     },
     {
       "domain_keyword": [
-        "acs.m.goofish.com"
-      ]
-    },
-    {
-      "domain_suffix": [
+        "acs.m.goofish.com",
         "adashx.m.taobao.com",
         "amdc.m.taobao.com",
+        "app-analytics-services",
         "guide-acs.taobao.com",
-        "h-adashx.ut.taobao.com"
+        "h-adashx.ut.taobao.com",
+        "httpdns",
+        "httpsdns"
       ]
     },
     {
