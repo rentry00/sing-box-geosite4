@@ -1,11 +1,6 @@
 {
   "rules": [
     {
-      "domain_keyword": [
-        "app-analytics-services"
-      ]
-    },
-    {
       "domain_suffix": [
         "biliapi.net",
         "bilibili.com",
