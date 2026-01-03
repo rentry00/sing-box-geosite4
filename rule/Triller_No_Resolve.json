@@ -1,10 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_suffix": [
-        "triller.co"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
