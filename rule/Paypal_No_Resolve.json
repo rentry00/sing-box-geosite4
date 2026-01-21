@@ -1,16 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_keyword": [
-        "paypal"
-      ]
-    },
-    {
-      "domain_suffix": [
-        "paypal.com",
-        "paypalobjects.com"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
