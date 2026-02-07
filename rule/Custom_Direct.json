@@ -461,6 +461,7 @@
         "xiaoxia.vip",
         "xiberia.net",
         "ximogo.com",
+        "xingaochengtai.com",
         "xinghaiwaimai.com",
         "xingyaozhilian.com",
         "xiqueer.com",
@@ -509,9 +510,16 @@
     {
       "ip_cidr": [
         "108.174.48.100/32",
+        "198.41.192.0/24",
+        "198.41.200.0/24",
         "218.78.7.16/32",
         "5.5.5.5/32",
         "98.126.27.164/32"
+      ]
+    },
+    {
+      "port": [
+        "7844"
       ]
     },
     {
