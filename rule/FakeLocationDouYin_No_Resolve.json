@@ -8,7 +8,24 @@
     },
     {
       "domain_keyword": [
-        "amemv.com"
+        "-core-c-hl",
+        "-core-c-lf",
+        "-normal-c-hl",
+        "-normal-c-lf",
+        "-normal-hl",
+        "-normal-lf",
+        "core-c-lq",
+        "core-lq",
+        "normal-c-lq",
+        "normal-lq",
+        "search-lq",
+        "search-quic-lq"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "snssdk.com",
+        "toutiaoapi.com"
       ]
     }
   ],
