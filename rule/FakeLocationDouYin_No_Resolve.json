@@ -7,22 +7,8 @@
       ]
     },
     {
-      "domain_suffix": [
-        "-core-c-hl.amemv.com",
-        "-core-c-lf.amemv.com",
-        "-normal-c-hl.amemv.com",
-        "-normal-c-lf.amemv.com",
-        "-normal-hl.amemv.com",
-        "-normal-lf.amemv.com",
-        "api6-core-lf.amemv.com",
-        "core-c-lq.amemv.com",
-        "core-lq.amemv.com",
-        "normal-c-lq.amemv.com",
-        "normal-lq.amemv.com",
-        "search-lq.amemv.com",
-        "search-quic-lq.amemv.com",
-        "snssdk.com",
-        "toutiaoapi.com"
+      "domain_keyword": [
+        "amemv.com"
       ]
     }
   ],
