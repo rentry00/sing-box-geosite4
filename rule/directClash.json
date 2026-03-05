@@ -1,4 +1,31 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain": [
+        "api-sams.walmartmobile.cn",
+        "auth.orangebank.com.cn",
+        "cdn.sdb.com.cn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "account-cn.alibabacloud.com",
+        "afdian.net",
+        "afdiancdn.com",
+        "agoda.cn",
+        "cloudflarestorage.com",
+        "geetest.com",
+        "goodwe.com",
+        "hailuoai.com",
+        "minimaxi.com",
+        "remoteassistance.support.services.microsoft.com",
+        "resi.io",
+        "resi.media",
+        "steamcontent.com",
+        "walmartmobile.cn",
+        "xingyeai.com"
+      ]
+    }
+  ],
   "version": 2
 }
