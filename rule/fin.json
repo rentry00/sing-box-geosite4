@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "127.atlas.skk.moe",
         "7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe",
         "a.iqmtp.live",
         "analytics.strava.com",
@@ -259,8 +260,6 @@
         "126.fm",
         "126.link",
         "126.net",
-        "127.0.0.1.sslip.io",
-        "127.atlas.skk.moe",
         "127.com",
         "127.net",
         "133ec.com",
