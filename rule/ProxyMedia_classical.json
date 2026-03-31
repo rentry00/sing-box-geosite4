@@ -1,24 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_keyword": [
-        "-spotify-com",
-        "-tiktokcdn-com",
-        ".hbogoasia.",
-        "abematv.akamaized.net",
-        "bbcfmt",
-        "japonx",
-        "japronx",
-        "jooxweb-api",
-        "livedazn",
-        "spotify.com",
-        "ttvnw",
-        "uk-live",
-        "vod2dazn",
-        "voddazn",
-        "youtube"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
