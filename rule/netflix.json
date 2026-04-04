@@ -2,7 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "fast.com",
         "netflix.com",
+        "netflix.me",
         "netflix.net",
         "netflixdnstest0.com",
         "netflixdnstest1.com",
@@ -18,6 +20,7 @@
         "nflximg.com",
         "nflximg.net",
         "nflxso.net",
+        "nflxvideo.com",
         "nflxvideo.net"
       ]
     }
