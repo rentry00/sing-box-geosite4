@@ -2,35 +2,19 @@
   "rules": [
     {
       "domain": [
-        "amp-api.music.apple.com",
-        "amp-api.podcasts.apple.com",
-        "api-edge.apps.apple.com",
         "api.smoot.apple.com",
-        "appleid.apple.com",
-        "apps.apple.com",
-        "bag.itunes.apple.com",
-        "bookkeeper.itunes.apple.com",
-        "buy.itunes.apple.com",
-        "gsa.apple.com",
-        "idmsa.apple.com",
-        "itunes.apple.com",
         "news-client.apple.com",
         "news-edge.apple.com",
         "play-edge.itunes.apple.com",
-        "radio.itunes.apple.com",
-        "setup.icloud.com",
         "siri.apple.com"
       ]
     },
     {
       "domain_suffix": [
-        "apple-cloudkit.com",
         "apple.news",
         "apple.tv",
-        "books.apple.com",
         "developer.apple.com",
         "fitness.apple.com",
-        "icloud.com",
         "tv.apple.com",
         "tvapp.apple.com"
       ]
