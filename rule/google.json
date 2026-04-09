@@ -4,8 +4,6 @@
       "domain_suffix": [
         "ai.google",
         "ampproject.org",
-        "android.clients.google.com",
-        "android.com",
         "blogger.com",
         "blogspot.com",
         "deepmind.com",
@@ -46,7 +44,7 @@
         "gvt2.com",
         "gvt3.com",
         "makersuite.google.com",
-        "play.google.com",
+        "proactive.google.com",
         "tensorflow.org",
         "withgoogle.com"
       ]
