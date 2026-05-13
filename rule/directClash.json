@@ -1,38 +1,4 @@
 {
-  "rules": [
-    {
-      "domain": [
-        "api-sams.walmartmobile.cn",
-        "auth.orangebank.com.cn",
-        "cdn.sdb.com.cn"
-      ]
-    },
-    {
-      "domain_suffix": [
-        "account-cn.alibabacloud.com",
-        "acs.m.goofish.com",
-        "afdian.net",
-        "afdiancdn.com",
-        "agoda.cn",
-        "cloudflarestorage.com",
-        "geetest.com",
-        "goodwe.com",
-        "goofish.com",
-        "hailuoai.com",
-        "minimaxi.com",
-        "oray.com",
-        "oray.net",
-        "orayer.com",
-        "orayimg.com",
-        "remoteassistance.support.services.microsoft.com",
-        "resi.io",
-        "resi.media",
-        "steamcontent.com",
-        "sunlogin.net",
-        "walmartmobile.cn",
-        "xingyeai.com"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
