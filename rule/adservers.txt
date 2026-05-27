@@ -9,6 +9,7 @@
 !
 !
 !
+||engine.vaxcams.com^
 ||happyleafmotion.com^$all
 ||offer-extensions.com^$all
 ||p7tycr5jcw42r2pflvo7.cfd^
@@ -63,6 +64,7 @@
 ||advolve.io^
 ||gggpppht.com^
 ||ember-cf-netlify.cdn-x.net^
+||adblocker.prod-blocking.workers.dev^
 ||ad-blocker-1.static-cloudflare.workers.dev^
 ||ads-blocker-1.static-cloudflare.workers.dev^
 ||quizzicalrun.com^
