@@ -1,4 +1,13 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_keyword": [
+        "codeium",
+        "open-ai-chat",
+        "openaiapi",
+        "openaipublic"
+      ]
+    }
+  ],
   "version": 2
 }
