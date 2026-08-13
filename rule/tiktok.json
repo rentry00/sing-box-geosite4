@@ -1,4 +1,51 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_suffix": [
+        "bytedance.map.fastly.net",
+        "byteoversea.com",
+        "byteoversea.net",
+        "byteoversea.web.bytecel.com",
+        "capcut.com",
+        "capcut.net",
+        "capcutapi.com",
+        "capcutv.com",
+        "ibytedtok.com",
+        "ibyteimg.com",
+        "ipstatp.com",
+        "muscdn.com",
+        "musemuse.cn",
+        "musical.ly",
+        "p16-tiktokcdn-com",
+        "seller-tx.tiktok.com",
+        "seller.tiktok.com",
+        "sgpstatp.com",
+        "shop.tiktok.com",
+        "tik-tokapi.com",
+        "tiktok-row.net",
+        "tiktok.com",
+        "tiktok.com.edgesuite.net",
+        "tiktok.org",
+        "tiktokcdn-com.akamaized.net",
+        "tiktokcdn-eu.com",
+        "tiktokcdn-us.com",
+        "tiktokcdn.com",
+        "tiktokd.net",
+        "tiktokd.org",
+        "tiktokeu-cdn.com",
+        "tiktokglobalshop.com",
+        "tiktokglobalshopv.com",
+        "tiktokinfo.com",
+        "tiktokrow-cdn.com",
+        "tiktokv.com",
+        "tiktokv.eu",
+        "tiktokv.us",
+        "tiktokw.eu",
+        "tiktokw.us",
+        "tokopedia.com",
+        "vm.tiktok.com"
+      ]
+    }
+  ],
   "version": 2
 }
