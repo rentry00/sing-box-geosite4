@@ -1,11 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_suffix": [
-        "nintendo.com",
-        "nintendo.net"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
