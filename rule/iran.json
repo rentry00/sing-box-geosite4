@@ -1,15 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_suffix": [
-        "ir"
-      ]
-    },
-    {
-      "geoip": [
-        "ir"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
