@@ -1,17 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_keyword": [
-        "monzo"
-      ]
-    },
-    {
-      "domain_suffix": [
-        "monzo.com",
-        "monzo.statuspage.io",
-        "ws-eu.pusher.com"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
