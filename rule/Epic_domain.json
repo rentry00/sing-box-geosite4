@@ -2,8 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
+        "eac-cdn.com",
         "epicgames.com",
         "epicgames.dev",
+        "epicgames.org",
         "helpshift.com",
         "paragon.com",
         "unrealengine.com"

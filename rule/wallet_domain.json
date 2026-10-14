@@ -2,8 +2,11 @@
   "rules": [
     {
       "domain_suffix": [
+        "paypal.com",
+        "paypalobjects.com",
         "stripe.com",
         "stripe.network",
+        "stripe.services",
         "stripecdn.com",
         "wise.com"
       ]

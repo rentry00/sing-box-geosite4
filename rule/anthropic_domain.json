@@ -7,8 +7,15 @@
     },
     {
       "domain_suffix": [
+        "anthropic.cdn.cloudflare.net",
         "anthropic.com",
-        "claude.ai"
+        "clau.de",
+        "claude.ai",
+        "claude.com",
+        "claude.dev",
+        "claudemcpclient.com",
+        "claudemcpcontent.com",
+        "claudeusercontent.com"
       ]
     }
   ],
