@@ -1,16 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_suffix": [
-        "sinaapp.com",
-        "sinaimg.cn",
-        "weibo.cn",
-        "weibo.com",
-        "weibo.com.cn",
-        "weibocdn.com",
-        "weico.cc"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
