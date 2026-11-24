@@ -1,4 +1,18 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_suffix": [
+        "cdn-telegram.org",
+        "fragment.com",
+        "t.me",
+        "tdesktop.com",
+        "telegra.ph",
+        "telegram.me",
+        "telegram.org",
+        "telesco.pe",
+        "tx.me"
+      ]
+    }
+  ],
   "version": 2
 }
